@@ -79,4 +79,5 @@ Public Function GetProfile(Optional Callback As String = "") As WebResponse
 '    Else
         Set GetProfile = LinkedInClient.Execute(Request)
 '    End If
+                                        'ceci est un autre commit de demo
 End Function
