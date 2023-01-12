@@ -103,6 +103,7 @@ Function LoadMessage(MessageId As String) As Dictionary
         Next Header
     End If
 End Function
+                                    'ceci est commit de demo 
 
 Sub Test()
     Dim Message As Dictionary
