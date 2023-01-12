@@ -110,4 +110,6 @@ Sub Test()
         Debug.Print "From: " & Message("from") & ", Subject: " & Message("subject")
         Debug.Print Message("snippet") & vbNewLine
     Next Message
+                                    
+                                    /*ceci est un fake pull request*/
 End Sub
